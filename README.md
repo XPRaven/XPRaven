@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on several university projects.
-- 🌱 I’m currently learning C, Java, HTML, CSS, JavaScript, SQL, MongoDB, Neo4j
+- 🔭 I’m currently working on several projects.
+- 🌱 I’m currently learning C, Java, HTML, CSS, JavaScript, Dart
 - 💬 Ask me about nothing, preferably.
 <!--
 - 📫 How to reach me: ...
