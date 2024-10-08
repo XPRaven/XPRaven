@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on several projects.
-- 🌱 I’m currently learning C, Java, HTML, CSS, JavaScript, Dart
+- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Dart
 - 💬 Ask me about nothing, preferably.
 <!--
 - 📫 How to reach me: ...
